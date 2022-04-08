@@ -1,4 +1,4 @@
-# Laboratorio 1 - Robotica
+# Lab1_Robotica
 ## Por: Julian Luna y Javier Caicedo
 
 ### *a. Familiarizarce con Los comandos de Linux*
