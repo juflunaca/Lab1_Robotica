@@ -16,7 +16,7 @@
 
 ### *b. Conexión de ROS con MATLAB*
 
-<p align="center"><img src="https://i.postimg.cc/ft7rt7m4/1a.png" width="400"></p>
+<p align="center"><img src="https://i.postimg.cc/W3xLyX44/1a.png" width="400"></p>
 
 
 ### *c. Manejo de ROS usando Python*
